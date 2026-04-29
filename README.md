@@ -10,6 +10,6 @@ I also included a backup of our Discord server, under > _OurDiscord_
 April 29 2026 Update: 
 I lost the old repo to a force push :( Here's screenshots of the old repo:
 
-<img width="956" height="1318" alt="image" src="https://github.com/user-attachments/assets/aed3aebc-858e-474e-8ad5-e6a4abb80d9b" />
+<img width="956" height="879" alt="image" src="https://github.com/user-attachments/assets/a9143aeb-3e0b-4277-a94a-b9146b8deee7" />
 
 <img width="956" height="1297" alt="image" src="https://github.com/user-attachments/assets/228fe252-a381-43a6-a29c-7051b74e0eec" />
